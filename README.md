@@ -10,21 +10,21 @@ Here are the display of 2 different account addresses:
 
 I used these 2 accounts to withdraw ETH and accountOne are used to deposit ETH.
 
-![Module_20_Assigment](../Module_20_Assignment/Execution_Results/Two_Accounts_Addresses.PNG)
+![Module_20_Assigment](./Execution_Results/Two_Accounts_Addresses.PNG)
 
 Please see below results of three transantions on ETH deposit.
 
 - The first transaction is sending 1 ether as wei by using Ethereum Unit Converter.
 
-![Module_20_Assignment](../Module_20_Assignment/Execution_Results/Transaction_1_1ETH.PNG)
+![Module_20_Assignment](./Execution_Results/Transaction_1_1ETH.PNG)
 
 - The second transaction is sending 10 ether as wei by using Ethereum Unit Converter, and contract balance shows 11 ETH in total.
 
-![Module_20_Assignment](../Module_20_Assignment/Execution_Results/Transaction_2_10ETH.PNG)
+![Module_20_Assignment](./Execution_Results/Transaction_2_10ETH.PNG)
 
 - The third transaction is sending 5 ether, so the final balance is 16 ETH in this smart contract.
 
-![Module_20_Assignment](../Module_20_Assignment/Execution_Results/Transaction_3_5ETH.PNG)
+![Module_20_Assignment](./Execution_Results/Transaction_3_5ETH.PNG)
 
 After completing money deposit and I have 16 ETH in my contract, I made 2 transaction to transfer and withdraw moeny to accounnt1 and account 2 seperately.
 
@@ -32,12 +32,12 @@ Here is the result of Transaction A with transfering 5 ETH to account1 from my s
 
 After transaction A completed, the contract balance is 11 ETH.
 
-![Module_20_Assignment](../Module_20_Assignment/Execution_Results/Send_5ETH_to_accountOne.PNG)
+![Module_20_Assignment](./Execution_Results/Send_5ETH_to_accountOne.PNG)
 
 Here is the result of Transaction A with transfering 5 ETH to account1 from my smart contract:
 
 After transaction B completed, the contract balance is 1 ETH. The below picture also shows basic information of last_to_withdraw account address and last_withdraw amount.
 
-![Module_20_Assignment](../Module_20_Assignment/Execution_Results/Send_10ETH_to_accountTwo.PNG)
+![Module_20_Assignment](./Execution_Results/Send_10ETH_to_accountTwo.PNG)
 
 In general, I am satified with my smart contract. This is what I can do for now from what I learn so far. The only concern is the gas spending which is hard to control.
